@@ -1,0 +1,433 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.top{
+    background-color: rgb(41, 39, 39);
+    padding: 10px;
+}
+.num{
+    color: white;
+    font-size: 18px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    padding: 8px ;
+    
+    
+}
+.phone{
+    margin-bottom: -9px;
+    padding: 5px;
+    width: 30px;
+    margin-left: 100px;
+}
+.sec{
+    float: right;
+    margin-top: 3px;
+    width: 150px;
+    margin-right: 70px;
+}
+.log{
+    background-color: rgb(61, 76, 168);
+}
+.path{
+    margin-left: 100px;
+}
+.call{
+    margin-left: 120px;
+    margin-bottom: 27px;
+}
+.contact{
+    margin-left: 570px;
+    margin-top: -79px;
+    padding-bottom: 50px;
+    color: rgb(203, 201, 201);   
+}
+.now{
+    color: rgb(255, 255, 255);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+}
+.plus{
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.locate{
+    margin-left: 790px;
+    margin-top: -97px;
+    padding-bottom: 80px;
+    
+}
+.sam{
+    margin-left: 870px;
+    padding-bottom: 50px;
+    margin-top: -128px;
+    color: rgb(203, 201, 201); 
+}
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+     margin-left: 97px;
+     margin-top: 30px;
+     
+}
+li{
+    display: inline;
+    margin-left: 10px;
+    font-size: 14px;
+    padding: 14px 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-weight: 600;
+     background-color: white;
+}
+li a{
+    text-decoration: none;
+    color: black;
+    transition: 0.5s;
+    
+}
+a:hover{
+    font-size: 18px;
+}
+.slider{
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/images/slider-b.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 40px;
+    height: 600px;
+}
+.fyp{
+    text-align: center;
+    padding: 100px;
+    font-size: 70px;
+    color: white;
+    text-shadow: 2px 4px 8px black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.fyb{
+    color: aquamarine;
+}
+.link a{
+    text-decoration: none;
+    color: white;
+    
+}
+.open{
+    margin-top: -90px;
+}
+.link{
+    background-color: rgb(61, 76, 168);
+    border-radius: 20px;
+    margin-left: 390px;
+    box-shadow: 2px 4px 8px black;
+}
+.linkss{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    color:black;
+    box-shadow: 2px 4px 8px black;
+}
+.safe{
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: black;
+    margin-top: 60px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.con{
+    color: rgb(70, 185, 147);
+}
+.dash{
+    border-bottom: 2px solid black;
+   width: 80px;
+   margin-left: auto;
+   margin-right: auto;
+   margin-top: 10px;
+ 
+}
+.dashed{
+    border-bottom: 2px solid black;
+   width: 80px;
+   margin-left: 560px;
+   margin-top: 5px;
+}
+.favour{
+    text-align: center;
+    font-size: 16px;
+    font-family:Arial, Helvetica, sans-serif;
+    margin-top: 5px;
+}
+.learning{
+    
+    margin-left: 100px
+    
+}
+.gallery{
+    margin: 20px;
+    border: 1px solid white ;
+    float: left;
+    
+}
+.ball{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    margin-top: 10px;
+}
+.lib{
+    font-size: 12px;
+}
+.enroll{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/images/pic.jpg);
+    margin-top: 400px;
+    width: 100%;
+    height: 500px;
+    padding: 20px;
+    opacity: 1.0;
+    background-repeat: no-repeat;
+    background-size: 98%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ward{
+    background-color: rgb(61, 76, 168);
+    width: 300px;
+    margin-left: 300px;
+    padding: 5px;
+    margin-top: 100px;
+    box-shadow: 2px 4px 8px rgb(74, 74, 74);
+    
+}
+.ward a{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    transition: 0.5s;
+}
+.ward a:hover{
+    font-size: 20px;
+}
+.meet{
+    color: white;
+    font-size: 30px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 650px;
+    margin-top: -48px;
+    text-shadow: 2px 4px 8px black;
+}
+.disposal{
+    color: white;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 650px;
+    text-shadow: 2px 4px 8px black;
+    line-height: 1.8;
+}
+.glance{
+    margin: 20px;
+    border: 1px solid white ;
+    float: left;
+    box-shadow: 2px 4px 6px rgb(194, 191, 191);
+}
+.answer{
+    color: rgb(70, 185, 147);
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 10px;
+    padding: 10px;
+    margin-left: 5px;
+}
+.room{
+    font-size: 16px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    font-weight: bold;
+    margin-left: -10px;
+}
+.anthem{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(/images/pathfinder.jpg);
+    width: 100%;
+    height: 600px;
+    margin-top: 380px;
+}
+.area{
+    background-color: rgb(61, 76, 168);
+    opacity: 0.9;
+    width: 300px;
+    height: 600px;
+    padding: 20px;
+    margin-left: 750px;
+}
+.moral{
+    color:white;
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 20px;
+    margin-top: 30px;
+}
+.naija{
+    font-size: 14px;
+    margin-left: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    line-height: 1.5;
+    letter-spacing: 0px;
+}
+.beep{
+    color: black;
+    border: 1px solid white;
+    background-color: white;
+    padding:10px;
+    width: 100px;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin-left: 20px;
+    margin-top: 30px;
+    text-align: center;
+}
+.beep a{
+    text-decoration: none;
+    color: black;
+}
+.beep a:hover{
+    font-size: 14px;
+    color: rgb(61, 76, 168);;
+    transition: 0.5s;
+}
+.event{
+    margin: 20px;
+    border: 1px solid white ;
+    float: left;
+}
+.set{
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 15px;
+}
+.pci{
+    border: 2px solid rgb(70, 185, 147);
+    padding:8px;
+    text-align: center;
+    width: 90px;
+    color: rgb(70, 185, 147);
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 15px;
+}
+.pci a{
+    text-decoration: none;
+    color:rgb(70, 185, 147);
+}
+.pci a:hover{
+    font-size: 14px;
+    transition: 0.5s;
+}
+.bluey{
+    background-color: rgb(61, 76, 168);
+    width: 100%;
+    height: 120px;
+    margin-top: 350px;
+}
+.banner{
+     margin: 20px;
+    border: 1px solid white ;
+    float: left;
+    box-shadow: 2px 4px 6px rgb(194, 191, 191);
+    padding: 10px;
+}
+.stud{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 800;
+}
+.life{
+    width: 35px;
+    margin-bottom: -15px;
+    padding: 10px;
+    margin-left: -10px;
+    margin-top: -10px;
+    
+}
+.store{
+    font-weight: 100;
+    font-size: 16px;
+}
+.oval{
+    border: 1px white rgb(61, 76, 168);
+    border-radius: 20px;
+    background-color: rgb(61, 76, 168);
+    width: 20px;
+    height: 10px;
+    margin-top: 350px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.ibd{
+    background-color: rgb(29, 28, 28);
+    width: 100%;
+    height: 500px;
+    margin-top: 30px;
+}
+.tact{
+    color: white;
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 20px;
+    margin-left: 35px;
+    padding-top: 50px;
+}
+.media{
+    width: 35px;
+    /* height: 19px; */
+    padding: 10px;
+    margin-top: 20px;
+   
+}
+.social{
+    color: white;
+    margin-top: -30px;
+    padding: 10px;
+     margin-left: 35px;
+}
+.social a{
+    text-decoration: none;
+    color: white;
+}
+.ila{
+    border-bottom: 2px solid rgb(61, 76, 168);
+    width: 40px;
+    margin-left: 55px;
+    margin-top: -10px;
+    margin-bottom: 30px;
+}
+.final{
+    border-bottom: 1.5px solid white;
+    width: 75%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+}
+.capture{
+    width: 200px;
+  margin-left: 510px;
+    
+}
+.design{
+    color:white;
+    font-size: 14px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.alu{
+    color:rgb(70, 185, 147);
+}
